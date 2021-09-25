@@ -62,5 +62,5 @@ h1, h2 {
 #hero-image {
     height: 600px;
     width: 100%;
-    background: url('../images/hero-image.webp') no-repeat center center;
+    background: url("../images/hero-image.webp") no-repeat center center;
 }
